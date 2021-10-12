@@ -31,5 +31,6 @@ exclude:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 #  - jekyll-paginate
 #  - jekyll-sitemap
