@@ -11,7 +11,7 @@ I'll only listen if I *know* you're speaking to me. "-" gets my attention, and i
 ### ✔️ List of Commands 📔
 #### 🏆 General 😄
 - **-help** \\\ I'll message you a list of all possible commands you can use, and a short bit of info about them.
-- **-avatar > @Username here <** \\\ I'll grab the direct link to someone's profile picture and link it in the chat. *An example command is *-avatar @debears*.*
+- **-avatar > @Username here <** \\\ I'll grab the direct link to someone's profile picture and link it in the chat. *An example command is **-avatar @debears**.*
 
 #### 🎼 Music 🎹
 - **-play > search/link goes here <** \\\ I'll join the audio channel you're currently in and play audio. I can search from YouTube or play directly from links. I even support playlists. *An example command is *-play https://www.youtube.com/watch?v=dQw4w9WgXcQ* OR *-play Never Gonna Give You Up*.*
