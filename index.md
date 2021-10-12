@@ -24,9 +24,5 @@ I'll only listen if I *know* you're speaking to me. "-" gets my attention, and i
 - **-connect4 > @Username here <** \\\ I'll set up a game of Connect 4 between you and the user you specify.
 - **-dice** *OR* **-roll > dice formula here <** \\\ I'll roll a string of die you determine. *An example command is *-roll 3d6+5*.*
 - **-poker** \\\ Ever played Luigi's Picture Poker in Super Mario 64 DS? **-poker play** skips the explanation and goes straight to the game.
-
-<img src="https://i.postimg.cc/02ndqCY0/1497326027690.gif" width="445"/>
-
-
 ___
 <img src="https://i.postimg.cc/0Q6P9ZKM/disapproving-lakitu.gif" width="60"/> end of the page, dork	-	<img src="https://i.postimg.cc/jdbbyY3Z/1544979629657.gif" width="30"/>**DeBears#0001** on Discord for questions/help 💕 <img src="https://i.postimg.cc/0Q6P9ZKM/disapproving-lakitu.gif" width="60"/>
