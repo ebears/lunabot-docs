@@ -1,5 +1,11 @@
-#Jekyll Config
+# --- Jekyll Config --- 
+# Name of website
 name: LunaBot
+# Name to show in the footer
+author: DeBears
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "debears.org"
 description: documentation for a discord bot
 url: "https://ebears.github.io/lunabot-docs/"
 markdown: GFM
