@@ -29,6 +29,7 @@ exclude:
 
 # --- Plugins ---
 
-#plugins:
+plugins:
+  - jekyll-remote-theme
 #  - jekyll-paginate
 #  - jekyll-sitemap
