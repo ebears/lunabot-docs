@@ -2,10 +2,6 @@
 
 # Name of website
 name: LunaBot
-
-# Name to show in the footer
-author: DeBears
-
 description: documentation for a discord bot
 url: "https://ebears.github.io/lunabot-docs/"
 remote_theme: "dracula/gh-pages"
