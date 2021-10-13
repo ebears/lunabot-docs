@@ -1,8 +1,5 @@
 # --- Jekyll Config --- 
 
-# Name of website
-name: LunaBot
-description: documentation for a discord bot
 url: "https://ebears.github.io/lunabot-docs/"
 remote_theme: "dracula/gh-pages"
 
