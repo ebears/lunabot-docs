@@ -29,6 +29,6 @@ exclude:
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jemoji
+  - searchyll
 #  - jekyll-paginate
 #  - jekyll-sitemap
