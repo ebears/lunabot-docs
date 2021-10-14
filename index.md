@@ -1,5 +1,3 @@
-# 😼 Luna - a Discord bot 🤖
-
 ### 👋 Introduction
 Hi, my name is Luna. I'm always online, powered by a Raspberry Pi, and named after a cat.
 
@@ -12,8 +10,8 @@ I offer many features through the use of text commands. You may also talk to me 
 ***-*** is the prefix for my commands. An example would look like **-example dothis**.
 #### 🏆 General
 - **-help** \\\ I'll message you a list of all possible commands you can use, and a short bit of info about them.
-- **-avatar > @Username here <** \\\ I'll post a large picture of the desired profile picture in chat. *An example command is **-avatar @debears**.*
-- **-bigmoji > emoji here <** \\\ I'll post a large picture of the desired emoji in chat. *An example command is **-bigmoji 🎃**.*
+- **-avatar > @Username here <** \\\ I'll post a large picture of the target profile picture in chat. *An example command is **-avatar @debears**.*
+- **-bigmoji > emoji here <** \\\ I'll post a large picture of the target emoji in chat. *An example command is **-bigmoji 🎃**.*
 
 #### 🎹 Music
 - **-play > search/link goes here <** \\\ I'll join the audio channel you're currently in and play audio. I can search from YouTube or play directly from links. I even support playlists. *An example command is **-play https://www.youtube.com/watch?v=dQw4w9WgXcQ** OR **-play Never Gonna Give You Up**.*
