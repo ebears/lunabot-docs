@@ -1,5 +1,6 @@
 # --- Jekyll Config --- 
 
+title: "😼 Luna - a Discord bot 🤖"
 url: "https://ebears.github.io/lunabot-docs/"
 remote_theme: "dracula/gh-pages"
 
