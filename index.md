@@ -26,4 +26,4 @@ I offer many features through the use of text commands. You may also talk to me 
 - **-poker** \\\ Ever played Luigi's Picture Poker in Super Mario 64 DS? **-poker play** skips the explanation and goes straight to the game.
 
 ___
-<img src="https://i.postimg.cc/0Q6P9ZKM/disapproving-lakitu.gif" width="60"/> end of the page, dork	-	<img src="https://i.postimg.cc/jdbbyY3Z/1544979629657.gif" width="30"/>**DeBears#0001** on Discord for questions/help 💕 <img src="https://i.postimg.cc/0Q6P9ZKM/disapproving-lakitu.gif" width="60"/>
+<img src="https://i.postimg.cc/0Q6P9ZKM/disapproving-lakitu.gif" width="60"/> end of the page, dork	-	<img src="https://i.postimg.cc/jdbbyY3Z/1544979629657.gif" width="30"/>**debears** on Discord for questions/help 💕 <img src="https://i.postimg.cc/0Q6P9ZKM/disapproving-lakitu.gif" width="60"/>
